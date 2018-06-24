@@ -1,3 +1,8 @@
+# React / Redux / Firebase integration
+
+Testing these three technologies together from [this medium article](https://medium.com/quick-code/how-to-integrate-react-redux-and-firebase-in-3-simple-steps-c44804a6af38)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
